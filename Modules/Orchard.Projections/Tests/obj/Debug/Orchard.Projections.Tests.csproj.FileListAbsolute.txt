@@ -1,0 +1,118 @@
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Projections.Tests.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Projections.Tests.pdb
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Autofac.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\FluentNHibernate.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Iesi.Collections.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Moq.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\NHibernate.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\nunit.framework.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Core.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Framework.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Framework.Tests.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Projections.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Data.SqlServerCe.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Castle.Core.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.Mvc.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\log4net.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Autofac.Integration.Web.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.Http.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Newtonsoft.Json.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.WebPages.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.WebPages.Razor.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.Razor.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Owin.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Microsoft.Owin.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\NHibernate.Linq.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Autofac.Configuration.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.Http.WebHost.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Forms.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Tokens.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Net.Http.Formatting.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.WebPages.Deployment.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Framework.Tests.pdb
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Framework.pdb
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Core.pdb
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Projections.pdb
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Autofac.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Iesi.Collections.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Moq.pdb
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Moq.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\NHibernate.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Castle.Core.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.Mvc.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\log4net.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Autofac.Integration.Web.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.Http.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Newtonsoft.Json.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.WebPages.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.WebPages.Razor.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.Razor.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Microsoft.Owin.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Autofac.Configuration.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.Http.WebHost.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Forms.pdb
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Tokens.pdb
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Net.Http.Formatting.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.WebPages.Deployment.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\obj\Debug\Orchard.Projections.Tests.csprojResolveAssemblyReference.cache
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\obj\Debug\Orchard.Projections.Tests.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\obj\Debug\Orchard.Projections.Tests.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Projections.Tests.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Projections.Tests.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Autofac.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\FluentNHibernate.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Iesi.Collections.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Moq.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\NHibernate.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\nunit.framework.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Core.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Framework.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Framework.Tests.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Projections.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Data.SqlServerCe.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Castle.Core.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.Mvc.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\log4net.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Autofac.Integration.Web.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.Http.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Newtonsoft.Json.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.WebPages.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.WebPages.Razor.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.Razor.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Owin.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Microsoft.Owin.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\NHibernate.Linq.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Autofac.Configuration.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.Http.WebHost.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Forms.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Tokens.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Net.Http.Formatting.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.WebPages.Deployment.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Framework.Tests.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Framework.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Core.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Projections.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Autofac.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Iesi.Collections.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Moq.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Moq.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\NHibernate.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Castle.Core.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.Mvc.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\log4net.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Autofac.Integration.Web.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.Http.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Newtonsoft.Json.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.WebPages.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.WebPages.Razor.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.Razor.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Microsoft.Owin.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Autofac.Configuration.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.Http.WebHost.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Forms.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\Orchard.Tokens.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Net.Http.Formatting.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\bin\System.Web.WebPages.Deployment.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\obj\Debug\Orchard.Projections.Tests.csprojResolveAssemblyReference.cache
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\obj\Debug\Orchard.Projections.Tests.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Projections\Tests\obj\Debug\Orchard.Projections.Tests.pdb

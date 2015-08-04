@@ -1,0 +1,88 @@
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Orchard.jQuery.dll.config
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Orchard.jQuery.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Orchard.jQuery.pdb
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Orchard.Core.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Orchard.Framework.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.Mvc.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\NHibernate.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\FluentNHibernate.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Castle.Core.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.WebPages.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Autofac.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\log4net.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.Http.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.WebPages.Razor.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.Razor.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Owin.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Microsoft.Owin.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Newtonsoft.Json.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\NHibernate.Linq.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Autofac.Configuration.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.Http.WebHost.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Iesi.Collections.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.WebPages.Deployment.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Net.Http.Formatting.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Orchard.Framework.pdb
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Orchard.Core.pdb
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.Mvc.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\NHibernate.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Castle.Core.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.WebPages.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Autofac.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\log4net.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.Http.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.WebPages.Razor.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.Razor.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Microsoft.Owin.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Newtonsoft.Json.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Autofac.Configuration.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.Http.WebHost.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Iesi.Collections.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.WebPages.Deployment.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Net.Http.Formatting.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\obj\Debug\Orchard.jQuery.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\obj\Debug\Orchard.jQuery.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Orchard.jQuery.dll.config
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Orchard.jQuery.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Orchard.jQuery.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Orchard.Core.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Orchard.Framework.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.Mvc.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\NHibernate.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\FluentNHibernate.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Castle.Core.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.WebPages.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Autofac.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\log4net.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.Http.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.WebPages.Razor.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.Razor.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Owin.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Microsoft.Owin.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Newtonsoft.Json.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\NHibernate.Linq.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Autofac.Configuration.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.Http.WebHost.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Iesi.Collections.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.WebPages.Deployment.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Net.Http.Formatting.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Orchard.Framework.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Orchard.Core.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.Mvc.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\NHibernate.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Castle.Core.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.WebPages.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Autofac.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\log4net.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.Http.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.WebPages.Razor.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.Razor.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Microsoft.Owin.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Newtonsoft.Json.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Autofac.Configuration.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.Http.WebHost.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\Iesi.Collections.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Web.WebPages.Deployment.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\bin\System.Net.Http.Formatting.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\obj\Debug\Orchard.jQuery.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.jQuery\obj\Debug\Orchard.jQuery.pdb

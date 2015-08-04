@@ -1,0 +1,17 @@
+﻿Name: Infinite Ajax Scrolling
+Path: Orchard.jQuery.Ias
+AntiForgery: enabled
+Author: Jeroen Fiege, LoadIn
+Website: http://www.loadin.gr
+Version: 1.3
+OrchardVersion: 1.6
+Description: The jQuery.Ias module contains the jQuery Infinite Ajax Scrolling plugin and related script libraries.
+FeatureDescription: A common location for jQuery Infinite Ajax Scrolling and related script libraries.
+Category: Utility
+Dependencies: Orchard.jQuery
+Features:
+	Orchard.jQuery.Ias.Blogs:
+		Name: Infinite Ajax Scrolling for Blog Posts
+		Description: Auto enable Infinite Ajax Scrolling support for your Blog Posts.
+		Dependencies: Orchard.jQuery.Ias,Orchard.Blogs
+		Category: Utility

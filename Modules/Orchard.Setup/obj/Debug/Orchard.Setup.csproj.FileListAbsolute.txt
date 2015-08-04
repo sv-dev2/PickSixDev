@@ -1,0 +1,112 @@
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Setup.dll.config
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Setup.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Setup.pdb
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Autofac.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Core.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Framework.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Recipes.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Themes.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Mvc.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\NHibernate.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\FluentNHibernate.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Castle.Core.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.WebPages.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\log4net.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Http.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.WebPages.Razor.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Razor.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Owin.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Microsoft.Owin.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Newtonsoft.Json.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\NHibernate.Linq.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Autofac.Configuration.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Http.WebHost.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.ContentTypes.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Packaging.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Iesi.Collections.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.WebPages.Deployment.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Net.Http.Formatting.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\NuGet.Core.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Modules.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Framework.pdb
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Core.pdb
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Recipes.pdb
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Themes.pdb
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Autofac.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Mvc.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\NHibernate.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Castle.Core.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.WebPages.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\log4net.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Http.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.WebPages.Razor.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Razor.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Microsoft.Owin.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Newtonsoft.Json.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Autofac.Configuration.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Http.WebHost.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.ContentTypes.pdb
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Packaging.pdb
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Iesi.Collections.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.WebPages.Deployment.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Net.Http.Formatting.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Modules.pdb
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\obj\Debug\Orchard.Setup.csprojResolveAssemblyReference.cache
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\obj\Debug\Orchard.Setup.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\obj\Debug\Orchard.Setup.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Setup.dll.config
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Setup.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Setup.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Autofac.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Core.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Framework.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Recipes.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Themes.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Mvc.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\NHibernate.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\FluentNHibernate.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Castle.Core.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.WebPages.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\log4net.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Http.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.WebPages.Razor.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Razor.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Owin.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Microsoft.Owin.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Newtonsoft.Json.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\NHibernate.Linq.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Autofac.Configuration.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Http.WebHost.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.ContentTypes.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Packaging.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Iesi.Collections.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.WebPages.Deployment.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Net.Http.Formatting.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\NuGet.Core.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Modules.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Framework.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Core.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Recipes.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Themes.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Autofac.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Mvc.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\NHibernate.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Castle.Core.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.WebPages.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\log4net.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Http.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.WebPages.Razor.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Razor.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Microsoft.Owin.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Newtonsoft.Json.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Autofac.Configuration.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Http.WebHost.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.ContentTypes.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Packaging.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Iesi.Collections.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.WebPages.Deployment.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Net.Http.Formatting.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Modules.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\obj\Debug\Orchard.Setup.csprojResolveAssemblyReference.cache
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\obj\Debug\Orchard.Setup.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.Setup\obj\Debug\Orchard.Setup.pdb

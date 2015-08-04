@@ -1,0 +1,54 @@
+﻿@using Orchard.ContentManagement
+@using Orchard.jQuery.Ias.Models
+@model dynamic
+@functions {
+bool isAdmin()
+{
+    string displayType = Model.Metadata.DisplayType;
+    if (!String.IsNullOrWhiteSpace(displayType))
+    {
+        if (displayType == "DetailAdmin")
+            return true;
+    }
+    return false;
+}
+}
+    
+@{
+    Style.Require("jQuery_Ias").AtHead();
+    Script.Require("jQuery_Ias").AtHead();
+    
+    var item = (IContent)Model.ContentItem;
+    
+    var ias = item.As<InfiniteAjaxScrollingPart>();
+    
+    string iascontainer = isAdmin() ? ".zone-content .contentItems > ul" : @ias.Container;
+    string iasitem = isAdmin() ? "> li" : @ias.Item;
+    string iaspagination = isAdmin() ? ".pager-footer" : @ias.Pagination;
+    string iasnextanchor = isAdmin() ? ".pager .last a" : @ias.NextAnchor;
+    string usehistory = isAdmin() ? "false" : @ias.UseHistory.ToString().ToLower();
+    string onpagechange = isAdmin() ? "function() {}" : string.IsNullOrWhiteSpace(ias.OnPageChange) ? "function() {}" : ias.OnPageChange;
+    string beforepagechange = isAdmin() ? "function() {}" : string.IsNullOrWhiteSpace(ias.BeforePageChange) ? "function() {}" : ias.BeforePageChange;
+    string onloaditems = isAdmin() ? "function() {}" : string.IsNullOrWhiteSpace(ias.OnLoadItems) ? "function() {}" : ias.OnLoadItems;
+    string onrendercomplete = isAdmin() ? "function() {}" : string.IsNullOrWhiteSpace(ias.OnRenderComplete) ? "function() {}" : ias.OnRenderComplete;
+
+
+}
+<script type="text/javascript">
+    //<![CDATA[
+    $(function () {                
+        jQuery.ias({
+            container: '@Html.Raw(iascontainer)',
+            item: '@Html.Raw(iasitem)',
+            pagination: '@Html.Raw(iaspagination)',
+            next: '@Html.Raw(iasnextanchor)',
+            loader: '<img src="@ias.Loader"/>',
+            history: @usehistory,
+            onPageChange: @Html.Raw(onpagechange),
+            beforePageChange: @Html.Raw(beforepagechange),
+            onLoadItems: @Html.Raw(onloaditems),
+            onRenderComplete: @Html.Raw(onrendercomplete)
+        });
+    })
+    //]]>
+</script>
