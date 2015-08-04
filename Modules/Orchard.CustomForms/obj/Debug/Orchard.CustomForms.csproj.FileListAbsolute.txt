@@ -1,0 +1,100 @@
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Orchard.CustomForms.dll.config
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Orchard.CustomForms.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Orchard.CustomForms.pdb
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Orchard.Core.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Orchard.Forms.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Orchard.Framework.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Orchard.Tokens.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Orchard.Workflows.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.Mvc.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\NHibernate.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\FluentNHibernate.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Castle.Core.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.WebPages.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Autofac.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\log4net.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.Http.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.WebPages.Razor.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.Razor.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Owin.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Microsoft.Owin.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Newtonsoft.Json.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\NHibernate.Linq.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Autofac.Configuration.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.Http.WebHost.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Iesi.Collections.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.WebPages.Deployment.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Net.Http.Formatting.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Orchard.Framework.pdb
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Orchard.Core.pdb
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Orchard.Forms.pdb
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Orchard.Tokens.pdb
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Orchard.Workflows.pdb
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.Mvc.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\NHibernate.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Castle.Core.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.WebPages.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Autofac.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\log4net.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.Http.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.WebPages.Razor.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.Razor.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Microsoft.Owin.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Newtonsoft.Json.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Autofac.Configuration.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.Http.WebHost.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Iesi.Collections.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.WebPages.Deployment.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Net.Http.Formatting.xml
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\obj\Debug\Orchard.CustomForms.dll
+F:\Projects\Orchard\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\obj\Debug\Orchard.CustomForms.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Orchard.CustomForms.dll.config
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Orchard.CustomForms.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Orchard.CustomForms.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Orchard.Core.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Orchard.Forms.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Orchard.Framework.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Orchard.Tokens.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Orchard.Workflows.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.Mvc.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\NHibernate.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\FluentNHibernate.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Castle.Core.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.WebPages.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Autofac.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\log4net.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.Http.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.WebPages.Razor.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.Razor.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Owin.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Microsoft.Owin.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Newtonsoft.Json.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\NHibernate.Linq.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Autofac.Configuration.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.Http.WebHost.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Iesi.Collections.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.WebPages.Deployment.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Net.Http.Formatting.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Orchard.Framework.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Orchard.Core.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Orchard.Forms.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Orchard.Tokens.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Orchard.Workflows.pdb
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.Mvc.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\NHibernate.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Castle.Core.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.WebPages.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Autofac.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\log4net.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.Http.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.WebPages.Razor.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.Razor.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Microsoft.Owin.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Newtonsoft.Json.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Autofac.Configuration.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.Http.WebHost.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\Iesi.Collections.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Web.WebPages.Deployment.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\bin\System.Net.Http.Formatting.xml
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\obj\Debug\Orchard.CustomForms.dll
+F:\Projects\Orchard\CODE\8 - june - 2015\Orchard-PickSixDev\src\Orchard.Web\Modules\Orchard.CustomForms\obj\Debug\Orchard.CustomForms.pdb
