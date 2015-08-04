@@ -1,0 +1,13 @@
+State: Running
+Themes: 
+Modules: 
+Name: Default
+DataProvider: SqlServer
+DataConnectionString: Data Source=192.168.1.253\MSSQL2014;Initial Catalog=Orchard_pickSix;Persist Security Info=True;User ID=sa;Password=data@123
+DataTablePrefix: pickSix
+RequestUrlHost: null
+RequestUrlPrefix: null
+EncryptionAlgorithm: AES
+EncryptionKey: 85466E3D2DC4AFEDD15E5C3DAB188EC9AAF5A47E31C3A47DE1693FB33307C6E9
+HashAlgorithm: HMACSHA256
+HashKey: 7E83AE59CBDCE7A3CF93F2B7F0762D44076005EF0B8C28995BE9EF11EF1231930CB7702953D40A8B6CE77173E071DA09DB30B930B338FB2D570C17E8FF618158

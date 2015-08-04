@@ -1,0 +1,34 @@
+﻿<Placement>
+  <!-- Customize where the shapes are rendered -->
+
+  <!-- 
+  <Place Parts_Blogs_BlogArchives="Content:before"/>
+  <Place Parts_Blogs_RecentBlogPosts="Content:before"/>  <Place Fields_MediaLibraryPicker="Content:1" />
+  <Match ContentType="Blog">
+    <Match DisplayType="Summary">
+      <Place Parts_Blogs_Blog_Description="Content:before"
+             Parts_Blogs_Blog_BlogPostCount="Meta:3"/>
+              <Place Fields_Contrib_Image="Content"/>
+    </Match>
+    <Match DisplayType="Detail">
+      <Place Parts_Blogs_Blog_Description="Content:before"
+             Parts_Blogs_Blog_BlogPostCount="Meta:3"/>
+    </Match>
+  </Match>
+ 
+  <Match Path="/About">
+    <Place Parts_Common_Metadata="-"/>
+  </Match>
+-->
+<Match ContentType="BlogPost">
+  <Match DisplayType="Summary">
+    <Place Fields_Contrib_Image="Content"/>
+  </Match>
+</Match>
+
+<Match ContentType="Week2">           
+    <Place Fields_MediaLibraryPicker="Content:1" />
+</Match>
+
+
+</Placement>

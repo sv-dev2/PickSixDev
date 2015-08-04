@@ -1,0 +1,19 @@
+<RecipeJournal>
+  <Status>Complete</Status>
+  <Message>Executing step Feature.</Message>
+  <Message>Executing step Metadata.</Message>
+  <Message>Executing step Settings.</Message>
+  <Message>Executing step Migration.</Message>
+  <Message>Executing step Command.</Message>
+  <Message>Commands: Executing item layer create Default /LayerRule:&amp;quot;true&amp;quot; /Description:&amp;quot;The widgets in this layer are displayed on all pages&amp;quot;.</Message>
+  <Message>Commands: Executing item layer create Authenticated /LayerRule:&amp;quot;authenticated&amp;quot; /Description:&amp;quot;The widgets in this layer are displayed when the user is authenticated&amp;quot;.</Message>
+  <Message>Commands: Executing item layer create Anonymous /LayerRule:&amp;quot;not authenticated&amp;quot; /Description:&amp;quot;The widgets in this layer are displayed when the user is anonymous&amp;quot;.</Message>
+  <Message>Commands: Executing item layer create Disabled /LayerRule:&amp;quot;false&amp;quot; /Description:&amp;quot;The widgets in this layer are never displayed&amp;quot;.</Message>
+  <Message>Commands: Executing item layer create TheHomepage /LayerRule:&amp;quot;url &amp;#39;~/&amp;#39;&amp;quot; /Description:&amp;quot;The widgets in this layer are displayed on the home page&amp;quot;.</Message>
+  <Message>Commands: Executing item site setting set baseurl.</Message>
+  <Message>Commands: Executing item menu create /MenuName:&amp;quot;Main Menu&amp;quot;.</Message>
+  <Message>Commands: Executing item page create /Slug:&amp;quot;welcome-to-orchard&amp;quot; /Title:&amp;quot;Welcome to Orchard!&amp;quot; /Path:&amp;quot;welcome-to-orchard&amp;quot; /Homepage:true /Publish:true /UseWelcomeText:true.</Message>
+  <Message>Commands: Executing item menuitem create /MenuPosition:&amp;quot;0&amp;quot; /MenuText:&amp;quot;Home&amp;quot; /Url:&amp;quot;~/&amp;quot; /MenuName:&amp;quot;Main Menu&amp;quot;.</Message>
+  <Message>Commands: Executing item widget create MenuWidget /Title:&amp;quot;Main Menu&amp;quot; /RenderTitle:false /Zone:&amp;quot;Navigation&amp;quot; /Position:&amp;quot;1&amp;quot; /Layer:&amp;quot;Default&amp;quot; /Identity:&amp;quot;MenuWidget1&amp;quot; /MenuName:&amp;quot;Main Menu&amp;quot;.</Message>
+  <Message>Commands: Executing item theme activate &amp;quot;The Theme Machine&amp;quot;.</Message>
+</RecipeJournal>

@@ -1,0 +1,68 @@
+﻿@*@Display(Model.ContentItems)*@
+
+@*@using Orchard.ContentManagement;
+@using Orchard.Blogs.Models;
+@using Orchard.MediaLibrary.Fields;
+@using System.Linq;
+
+*@
+@using Orchard.ContentManagement
+@using Orchard.Widgets.Models
+@using Orchard.MediaLibrary.Fields
+
+@{
+  Model.Metadata.Wrappers.Clear();
+  var title = ((IContent)Model.ContentItem).As<WidgetPart>();
+
+  Int32 count = 0;
+}
+
+  @foreach (dynamic itemWidget in Model.Content)
+  {
+var titleC = ((Orchard.DisplayManagement.Shapes.Shape)itemWidget);
+
+    @*if (count >0)
+    {*@
+    
+    
+    var tList= (Orchard.DisplayManagement.Shapes.Shape)itemWidget;
+    
+    
+    foreach (dynamic item in tList)
+    {
+    
+ ContentItem contentItem = item.ContentItem;
+                     ContentPart cp = item.ContentPart;
+        
+           dynamic q  =  ((ContentItem)item.ContentItem).Parts.SelectMany(p => p.Fields).First();
+           string postImageUrl = q.MediaParts[0].MediaUrl;
+        
+            <div class="col-lg-4 col-md-4 col-sm-4 custom_width_col">
+                <div class="row">
+                    <div class="border_box">
+
+                        <div class="col-lg-8 col-md-8 custom_class1">
+                            <img class="img-responsive" alt="" src="@postImageUrl">
+                        </div>
+
+                        <div class="col-lg-4 col-md-4 custom_class2">
+                            <h3>@Display(item.ContentItem.TitlePart.Title)</h3>
+                            <h3></h3>
+                            <p>@Display(item.ContentItem.BodyPart.Text.Replace("<p>","").Replace("</p>",""))</p>
+                            @{DateTime d1 = item.ContentItem.CommonPart.CreatedUtc;
+                            DateTime d2 = DateTime.Now;
+                            TimeSpan t = d2 - d1;
+                            }
+                            <span class="date">@Display(Convert.ToInt32(t.TotalDays) + " day ago")</span>
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+}
+}
+    @*count =count +1;*@
+
+                    

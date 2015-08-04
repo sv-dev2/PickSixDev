@@ -1,0 +1,63 @@
+﻿@using Orchard.ContentManagement
+@using Orchard.Widgets.Models
+@using Orchard.MediaLibrary.Fields
+
+
+@{
+  Model.Metadata.Wrappers.Clear();
+  var title = ((IContent)Model.ContentItem).As<WidgetPart>().Title;
+  Int32 count = 0;
+}
+
+
+
+
+@if(title == "Top 5 Power Rankings")
+{
+    <div class="border_box full_width">
+        <h2 class="box_title">Power Rankings</h2>
+        @*<div class="col-lg-12 col-md-12">*@
+        <div>
+            <ul class="ranking_ul">
+                @foreach (dynamic item in Model.ContentItems)
+                {
+                    count = count + 1;
+                    string Desciption = item.ContentItem.BodyPart.Text.Replace("<p>","").Replace("</p>","");
+                    <li>
+                        @Display(count + ". " + item.ContentItem.TitlePart.Title)
+                        <span>@Display(Desciption.Substring(0,32))</span>
+                    </li>
+
+
+                }
+            </ul>
+        </div>
+    </div>
+}
+@if(title.Contains("Week"))
+{
+     DateTime today = DateTime.Now;
+    int weekOfMonth=(today.Day + ((int)today.DayOfWeek)) / 7 + 1;             
+
+    <div class="gray_box">
+        <h3 class="week_title">@Display("Week ")@weekOfMonth.ToString()</h3>
+        <ul>
+            @foreach (dynamic item in Model.ContentItems)
+            {
+            
+                var field       = (MediaLibraryPickerField)item.ContentItem.Week2.Image;
+                var contents    = field.MediaParts;
+            
+                <li>
+
+                    @foreach(var content in contents) {
+                        <img src="@Url.Content(content.MediaUrl)" alt="@content.AlternateText" style="float:left;" />
+                    }
+                    <span style="float:left;">@Display(item.ContentItem.Week2.Team.Value + "  ")</span>
+                    <span style="float:left;">@Display(" " + item.ContentItem.Week2.Score.Value)</span>
+
+                </li>
+            }
+        </ul>
+    </div>
+}
